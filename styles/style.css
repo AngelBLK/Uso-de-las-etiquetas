@@ -21,7 +21,7 @@ body {
 
 .header__title {
     font-weight: 700;
-    font-size: 40px;
+    font-size: 45px;
     color:#9e9a9a;;
 }
 
@@ -54,9 +54,10 @@ hr {
     width: 700px;
     background-color: #979dac;
     text-align: center;
-    padding: 2px;
+    padding: 5px 2px;
     margin: 0 auto;
-    font-size: 15px;
+    font-size: 19px;
+    font-weight: 700;
     border-radius: 10px;
     box-shadow: 0 0 5px #0466c8;
     color:  #33415c;
