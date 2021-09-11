@@ -1,13 +1,13 @@
 # **Con el documento presentado por la docente en la clase del día 10/09/2021 tendrá que replicar el uso de las etiquetas:** 
 
-- "<pre>"
-- "<cite>"
-- "<q>"
-- "<footer>"
-- "<hr>"
-- "<blockquote>"
-- "<header>"
-- "<strong>"
+- pre
+- cite
+- q
+- footer
+- hr
+- blockquote
+- header
+- strong
 
 ## NOTA:
 
