@@ -71,8 +71,9 @@ hr {
 }
 
 .section:nth-child(7) {
-    width: 700px;
-    margin: 0% auto;
+    display: flex;
+    
+    justify-content: center;
 
 }
 
