@@ -9,8 +9,8 @@
 - header
 - strong
 
+## Enlace a la pagina en [GitHub Pages](https://angelblk.github.io/Uso-de-las-etiquetas/)
 ## NOTA:
-
 
 - No olvide que debe de tener imágenes de lado izquierdo y derecho, una de ellas debe de tener un enlace a una página.
 - Deberá tener un color de fondo
